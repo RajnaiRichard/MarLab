@@ -1,0 +1,7 @@
+../Core/Src/Display.c:9:6:reset_lcd_display	3
+../Core/Src/Display.c:21:6:fill_lcd_display_array	3
+../Core/Src/Display.c:37:6:GO_OUTPUT	4
+../Core/Src/Display.c:64:6:FIRST_OUTPUT	3
+../Core/Src/Display.c:85:6:ONLY_BAT_OUTPUT	5
+../Core/Src/Display.c:126:6:game_over	2
+../Core/Src/Display.c:146:6:game_over_PCB	1

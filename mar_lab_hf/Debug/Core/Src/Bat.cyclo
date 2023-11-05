@@ -1,0 +1,4 @@
+../Core/Src/Bat.c:4:6:check_bat_move	3
+../Core/Src/Bat.c:12:6:move_Bat	5
+../Core/Src/Bat.c:35:6:bat_display	3
+../Core/Src/Bat.c:48:6:move_and_only_bat_display	5

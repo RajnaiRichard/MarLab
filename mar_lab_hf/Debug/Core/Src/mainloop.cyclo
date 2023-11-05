@@ -1,0 +1,7 @@
+../Core/Src/mainloop.c:20:6:turn_On_LCD	1
+../Core/Src/mainloop.c:49:6:StartAddress	1
+../Core/Src/mainloop.c:97:6:PCBOutput	21
+../Core/Src/mainloop.c:219:6:mainloop_init	1
+../Core/Src/mainloop.c:231:6:mainloop_go	4
+../Core/Src/mainloop.c:255:6:mainloop_init_PCB	1
+../Core/Src/mainloop.c:273:6:mainloop_go_PCB	5

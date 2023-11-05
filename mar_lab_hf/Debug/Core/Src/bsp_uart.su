@@ -1,0 +1,3 @@
+../Core/Src/bsp_uart.c:59:19:UART_Init	8	static
+../Core/Src/bsp_uart.c:87:19:UART_SendString	24	static
+../Core/Src/bsp_uart.c:125:6:HAL_UART_RxCpltCallback	16	static

@@ -1,0 +1,7 @@
+../Core/Src/mainloop.c:20:6:turn_On_LCD	8	static
+../Core/Src/mainloop.c:49:6:StartAddress	8	static
+../Core/Src/mainloop.c:97:6:PCBOutput	24	static
+../Core/Src/mainloop.c:219:6:mainloop_init	8	static
+../Core/Src/mainloop.c:231:6:mainloop_go	8	static
+../Core/Src/mainloop.c:255:6:mainloop_init_PCB	8	static
+../Core/Src/mainloop.c:273:6:mainloop_go_PCB	8	static
